@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning Devops and Generative AI<br>💬 Ask me about Development
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning DevOps and Generative AI<br>💬 Ask me about Development
 
 
 # 💻 Tech Stack:
